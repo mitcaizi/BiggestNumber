@@ -15,8 +15,6 @@ int main()
   if (a<=b)
   {
 
-   
- 
   cout<<"Of those two numbers, the biggest is: ";
   cout<<b;
   }
