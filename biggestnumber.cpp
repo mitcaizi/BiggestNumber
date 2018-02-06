@@ -20,7 +20,6 @@ int main()
   }
 
   else
-  cout<<a;
   {
   }
   cout<<endl<<"Thank you for playing.\n";
