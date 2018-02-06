@@ -21,7 +21,7 @@ int main()
 
   else
   {
-  cout<<"Of those two number, the biggest is: ";
+  cout<<"Of those two numbers, the biggest is: ";
   cout<<a;
 
   }
