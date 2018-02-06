@@ -18,7 +18,9 @@ int main()
   cout<<"Of those two numbers, the biggest is: ";
   cout<<b;
   }
+
   else
+  cout<<a;
   {
   }
   cout<<endl<<"Thank you for playing.\n";
